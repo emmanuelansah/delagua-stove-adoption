@@ -1,7 +1,7 @@
 # 🇷🇼 DelAgua Stove Adoption Analytics
 ### Predictive Decision Support System for Clean Cooking Programs
 
-**Live Application:** [Insert Your Streamlit Cloud Link Here]
+**Live Application:** [[Insert Your Streamlit Cloud Link Here](https://delagua-stove-adoption-irzzgqiuonglz5xybgsmdh.streamlit.app/)]
 
 ## 📋 Project Overview
 This project was developed as part of the DelAgua Data Scientist assessment. It provides a machine-learning-driven framework to identify households at risk of low stove adoption (defined as <30% reduction in traditional fuel usage). 
